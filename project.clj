@@ -10,6 +10,7 @@
                  [compojure "1.4.0"]
                  [ring/ring-defaults "0.1.2"]
                  [hiccup "1.0.5"]]
+  :min-lein-version "2.5"
   :main ^:skip-aot shouter.web
   :uberjar-name "shouter-standalone.jar"
   :plugins [[lein-ring "0.8.13"]]
