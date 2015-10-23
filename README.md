@@ -1,14 +1,3 @@
 # clojure-on-heroku
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
-
-## License
-
-Copyright © 2015 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+This is just me working through the notes at https://devcenter.heroku.com/articles/clojure-web-application, to try to learn some Clojure (to get more comfortable Overtone-ing). Nothing much to see here.
